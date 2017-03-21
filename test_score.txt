@@ -1,0 +1,1 @@
+@[User::PourcentageEcartMonoImage] > 0 ? (100 -((@[User::NbLignesTableWRK]/@[User::NbLignesActives])*100))<@[User::PourcentageEcartMonoImage]: true
